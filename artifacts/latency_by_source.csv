@@ -1,0 +1,4 @@
+Source,mean_absent,mean_present,delta_ms,corr_latency_presence,p99_absent,p99_present
+PDF,2319.2,3315.4,996.2,0.421,3146.0,5133.0
+Wiki>0,4125.0,3131.0,-994.0,-0.178,5080.0,5005.0
+Confluence>0,2475.0,3172.8,697.8,0.125,2598.0,5122.0
